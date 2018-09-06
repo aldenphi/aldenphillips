@@ -1,0 +1,40 @@
+
+body
+h1
+      {color: LightBlue;
+}
+h1
+
+
+    {background-color: Purple;
+}
+
+.container {
+
+  background-color: Yellow;
+}
+
+.navbar li {
+
+  color: White;
+  display: inline;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjXjJ9vj9qqHoQAspwHC6RMrLHNGXbanQg8vWLqpssnCAEQH0jQ");
+}
+
+.login
+{float: right;
+
+}
+
+.login a {
+cursor:pointer;
+margin-right: 30px;
+padding: 8px 10px;
+border: 1px solid #204156;
+position: relative;
+}
+
+
+.login a:active;{
+  top:5px;
+}
