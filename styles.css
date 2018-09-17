@@ -38,3 +38,8 @@ position: relative;
 .login a:active;{
   top:5px;
 }
+
+footer {
+
+  background-color: yellow;
+}
