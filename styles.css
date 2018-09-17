@@ -1,5 +1,8 @@
 
 body
+      {background-color: Yellow;
+}
+
 h1
       {color: LightBlue;
 }
@@ -37,9 +40,4 @@ position: relative;
 
 .login a:active;{
   top:5px;
-}
-
-footer {
-
-  background-color: yellow;
 }
